@@ -27,6 +27,16 @@ Table of contents
 
 
 
+/* ****Soufiane style****** */
+/* .list-group {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  border-radius: .25rem;
+} */
 
 /* Typography */
 body, ul, li, p, a, label, input, div {
@@ -55,7 +65,7 @@ body, ul, li, p, a, label, input, div {
 .text-success { color: #54647a !important;}
 .text-light { color: #cfd6e1 !important;}
 .bg-dark { background-color: #212934 !important;}
-.bg-light { background-color: #e9eef5 !important;}
+/* .bg-light { background-color: #e9eef5 !important;} */
 .bg-black { background-color: #1d242d !important;}
 .bg-success { background-color: #54647a !important;}
 .btn-success {
