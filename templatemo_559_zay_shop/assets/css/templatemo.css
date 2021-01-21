@@ -28,6 +28,9 @@ Table of contents
 
 
 /* ****Soufiane style****** */
+/* #clear{
+  clear: both;
+} */
 .card-footer {
   padding: .75rem;
   /* margin-bottom: %; */
