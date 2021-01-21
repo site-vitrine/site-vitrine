@@ -85,9 +85,9 @@ body, ul, li, p, a, label, input, div {
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
 .text-muted { color: #bcbcbc !important;}
-.text-success { color: #54647a !important;}
+.text-success { color: #f9fafb !important; }
 .text-light { color: #cfd6e1 !important;}
-.bg-dark { background-color: #212934 !important;}
+.bg-dark { background-color: #343a40 !important;}
 /* .bg-light { background-color: #e9eef5 !important;} */
 .bg-black { background-color: #1d242d !important;}
 .bg-success { background-color: #54647a !important;}
@@ -103,7 +103,7 @@ body, ul, li, p, a, label, input, div {
 /* Nav */
 #templatemo_nav_top { min-height: 40px;}
 #templatemo_nav_top * { font-size: .9em !important;}
-#templatemo_main_nav a { color: #212934;}
+#templatemo_main_nav a { color: #f9f9fa;}
 #templatemo_main_nav a:hover { color: #54647a;}
 #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
 
@@ -211,7 +211,7 @@ body, ul, li, p, a, label, input, div {
 
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
-  #templatemo_main_nav .navbar-nav {max-width: 550px;}
+  #templatemo_main_nav .navbar-nav {max-width: 301px;}
   #template-mo-zay-hero-carousel .carousel-item {min-height: 30rem !important;}
   .product-wap .h3, .product-wap li, .product-wap i, .product-wap p {font-size: 18px !important;}
   .product-wap .product-color-dot {
